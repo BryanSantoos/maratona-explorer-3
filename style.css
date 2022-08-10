@@ -62,6 +62,7 @@ ul li {
 
 li .details {
     max-width: 234px;
+    width: 100%
 }
 
 .details h3 {
